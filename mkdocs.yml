@@ -5,4 +5,7 @@ nav:
   - Claude:
       - Overview: claude/index.md
       - Claude Code Commands: claude/Claude Code Commands.md
+  - Docker:
+      - Overview: docker/index.md
+      - Docker Commands: docker/Docker Commands.md
   - Kubernetes: kubernetes/index.md
