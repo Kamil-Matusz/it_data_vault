@@ -1,2 +1,8 @@
 site_name: DataVault Docs
 theme: material
+nav:
+  - Home: index.md
+  - Claude:
+      - Overview: claude/index.md
+      - Claude Code Commands: claude/Claude Code Commands.md
+  - Kubernetes: kubernetes/index.md

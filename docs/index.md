@@ -1,8 +1,8 @@
-# Witaj w moich tutorialach!
+# DataVault Docs
 
-To jest moja pierwsza strona zbudowana w MkDocs przez Dockera.
+Welcome to the DataVault documentation. This site collects technical notes, tutorials, and project references in one place.
 
-## Plan nauki
-* Podstawy Dockera
-* Wstęp do Kubernetes
-* Pisanie plików YAML
+## Sections
+
+- [Claude](claude/) - notes, prompts, workflows, and examples related to Claude.
+- [Kubernetes](kubernetes/) - Kubernetes basics, commands, YAML manifests, and cluster notes.
