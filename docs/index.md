@@ -7,3 +7,5 @@ Welcome to the DataVault documentation. This site collects technical notes, tuto
 - [Claude](claude/) - notes, prompts, workflows, and examples related to Claude.
 - [Docker](docker/) - Docker commands, images, containers, and Compose notes.
 - [Kubernetes](kubernetes/) - Kubernetes basics, commands, YAML manifests, and cluster notes.
+- [Mongo](mongo/) - MongoDB shell commands, collections, aggregations, and admin notes.
+- [Redis](redis/) - Redis commands, data types, persistence, and cluster notes.

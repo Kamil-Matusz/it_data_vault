@@ -4,8 +4,14 @@ nav:
   - Home: index.md
   - Claude:
       - Overview: claude/index.md
-      - Claude Code Commands: claude/Claude Code Commands.md
+      - Claude Code Commands: claude/ClaudeCodeCommands.md
   - Docker:
       - Overview: docker/index.md
-      - Docker Commands: docker/Docker Commands.md
+      - Docker Commands: docker/DockerCommands.md
   - Kubernetes: kubernetes/index.md
+  - Mongo:
+      - Overview: mongo/index.md
+      - Mongo Shell Commands: mongo/MongoShellCommands.md
+  - Redis:
+      - Overview: redis/index.md
+      - Redis Commands: redis/RedisCommands.md
