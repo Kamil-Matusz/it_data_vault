@@ -9,3 +9,4 @@ Welcome to the DataVault documentation. This site collects technical notes, tuto
 - [Kubernetes](kubernetes/) - Kubernetes basics, commands, YAML manifests, and cluster notes.
 - [Mongo](mongo/) - MongoDB shell commands, collections, aggregations, and admin notes.
 - [Redis](redis/) - Redis commands, data types, persistence, and cluster notes.
+- [.NET](net/) - .NET CLI commands, LINQ, Entity Framework Core, and publishing notes.

@@ -1,6 +1,6 @@
 # DataVault Docs
 
-Documentation and technical notes built with MkDocs Material. The project contains materials about Claude, Docker, Kubernetes, MongoDB, and Redis.
+Documentation and technical notes built with MkDocs Material. The project contains materials about Claude, Docker, Kubernetes, MongoDB, Redis, and .NET.
 
 ## Local Development
 
@@ -31,7 +31,8 @@ http://localhost:8000
 │   ├── docker/
 │   ├── kubernetes/
 │   ├── mongo/
-│   └── redis/
+│   ├── redis/
+│   └── net/
 ├── docker-compose.yaml
 ├── mkdocs.yml
 └── README.md

@@ -15,3 +15,7 @@ nav:
   - Redis:
       - Overview: redis/index.md
       - Redis Commands: redis/RedisCommands.md
+  - .NET:
+      - Overview: net/index.md
+      - .NET Commands: net/NETCommands.md
+      - LINQ Commands: net/LINQCommands.md
