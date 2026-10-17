@@ -2,8 +2,13 @@ site_name: DataVault Docs
 site_url: https://kamil-matusz.github.io/it_data_vault/
 repo_url: https://github.com/Kamil-Matusz/it_data_vault
 theme: material
+extra_css:
+  - stylesheets/projects.css
+extra_javascript:
+  - javascripts/projects.js
 nav:
   - Home: index.md
+  - Projects: projects/index.md
   - Claude:
       - Overview: claude/index.md
       - Claude Code Commands: claude/ClaudeCodeCommands.md

@@ -4,6 +4,7 @@ Welcome to the DataVault documentation. This site collects technical notes, tuto
 
 ## Sections
 
+- [Projects](projects/index.md) - public repositories with descriptions and category filters.
 - [Claude](claude/) - notes, prompts, workflows, and examples related to Claude.
 - [Docker](docker/) - Docker commands, images, containers, and Compose notes.
 - [Kubernetes](kubernetes/) - Kubernetes basics, commands, YAML manifests, and cluster notes.
