@@ -4,10 +4,6 @@ repo_url: https://github.com/Kamil-Matusz/it_data_vault
 theme: material
 nav:
   - Home: index.md
-  - Projects:
-      - Overview: projects/index.md
-      - .NET: projects/dotnet.md
-      - Java: projects/java.md
   - Claude:
       - Overview: claude/index.md
       - Claude Code Commands: claude/ClaudeCodeCommands.md
