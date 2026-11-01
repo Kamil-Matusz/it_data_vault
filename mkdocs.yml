@@ -7,10 +7,15 @@ nav:
   - Claude:
       - Overview: claude/index.md
       - Claude Code Commands: claude/ClaudeCodeCommands.md
+      - Claude Doctor: claude/ClaudeDoctor.md
+      - Prompt Audit: claude/PromptAudit.md
+      - Top MCP: claude/TopMCP.md
   - Docker:
       - Overview: docker/index.md
       - Docker Commands: docker/DockerCommands.md
-  - Kubernetes: kubernetes/index.md
+  - Kubernetes:
+      - Overview: kubernetes/index.md
+      - Kubernetes Commands: kubernetes/KubernetesCommands.md
   - Mongo:
       - Overview: mongo/index.md
       - Mongo Shell Commands: mongo/MongoShellCommands.md
