@@ -2,6 +2,9 @@ site_name: DataVault Docs
 site_url: https://kamil-matusz.github.io/it_data_vault/
 repo_url: https://github.com/Kamil-Matusz/it_data_vault
 theme: material
+plugins:
+  - search
+  - roamlinks
 nav:
   - Home: index.md
   - Claude:
@@ -16,6 +19,24 @@ nav:
   - Kubernetes:
       - Overview: kubernetes/index.md
       - Kubernetes Commands: kubernetes/KubernetesCommands.md
+      - CKAD:
+          - Spis treści: kubernetes/CKAD/CKAD - Spis treści.md
+          - Pod: kubernetes/CKAD/CKAD - Pod.md
+          - Deployment: kubernetes/CKAD/CKAD - Deployment.md
+          - Service: kubernetes/CKAD/CKAD - Service.md
+          - ConfigMap: kubernetes/CKAD/CKAD - ConfigMap.md
+          - Secret: kubernetes/CKAD/CKAD - Secret.md
+          - Probes: kubernetes/CKAD/CKAD - Probes.md
+          - Ingress: kubernetes/CKAD/CKAD - Ingress.md
+          - NetworkPolicy: kubernetes/CKAD/CKAD - NetworkPolicy.md
+          - Job: kubernetes/CKAD/CKAD - Job.md
+          - CronJob: kubernetes/CKAD/CKAD - CronJob.md
+          - PVC: kubernetes/CKAD/CKAD - PVC.md
+          - StatefulSet: kubernetes/CKAD/CKAD - StatefulSet.md
+          - DaemonSet: kubernetes/CKAD/CKAD - DaemonSet.md
+          - ServiceAccount: kubernetes/CKAD/CKAD - ServiceAccount.md
+          - SecurityContext: kubernetes/CKAD/CKAD - SecurityContext.md
+          - Manifesty do ćwiczeń: kubernetes/CKAD/CKAD - Manifesty do ćwiczeń.md
   - Mongo:
       - Overview: mongo/index.md
       - Mongo Shell Commands: mongo/MongoShellCommands.md
